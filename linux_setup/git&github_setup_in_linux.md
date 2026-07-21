@@ -1,9 +1,4 @@
-┌──(kali㉿kali)-[~]
-└─$ ^[[200~sudo apt update
-zsh: bad pattern: ^[[200~sudo
-                                                                              
-┌──(kali㉿kali)-[~]
-└─$ sudo apt install git -y~
+
                                                                               
 ┌──(kali㉿kali)-[~]
 └─$ sudo apt update
@@ -54,6 +49,8 @@ The key's randomart image is:
 |= =. o  + .      |
 | = oo  ooo       |
 +----[SHA256]-----+
-                                                                                                                                                                                                                                
+
+
 ┌──(kali㉿kali)-[~]
-└─$ 
+└─$ clear
+
