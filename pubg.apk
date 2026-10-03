@@ -1,0 +1,83 @@
+Metasploit tip: View advanced module options with advanced
+[0m[36m[1m[30m                                   ____________[37m
+ [%%%%[0m%%%%%%%%[1m[30m%%%%%%%[30m%%%%%%%%%%%%%| [31m$a,[30m        |%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%[37m]
+ [%%%[0m%%%%%%%%%[1m[30m%%%%%%%%%%%%%%%%%%%%| [31m$S`?a,[30m     |%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%[37m]
+ [%%[0m%%%%%%%[1m[30m%%%%%%%%%%%[37m_[36m_[30m%%%%%%%%%%|       [31m`?a,[30m |%%%%%%%%[37m_[32m_[30m%%%%%%%%%[37m_[32m_[30m%%[37m_[32m_ [30m%%%%[37m]
+ [% .-[36m--[0m[36m-----.[1m[37m.-[36m-[0m[36m---.[1m[37m|  [0m[36m|_ [1m[37m.-[36m-[0m[36m-.-.[1m[30m|       [31m.,a$%[30m|[37m.-[32m---[0m[32m-.[1m[37m|  [0m[32m|[1m[37m.-[32m--[0m[32m--.[1m[37m|[32m_[0m[32m_|[1m[37m|  [0m[32m|_ [1m[30m%%[37m]
+ [% |        [0m[36m|[1m[37m|  [0m[36m-__|[0m[36m|   [0m[36m_|[1m[37m|  [0m[36m_  |[1m[30m|  [31m,,aS$""`[30m  |[37m|  [0m[32m_  |[1m[32m|  [0m[32m|[1m[37m|  [0m[32m_  |[1m[32m|  [0m[32m|[1m[32m|   [0m[32m_|[1m[30m%%[37m]
+ [% [36m|[0m[36m__|__|__|[1m[36m|_[0m[36m____|[1m[36m|_[0m[36m___|[1m[36m|_[0m[36m__._|[1m[30m|[31m%$P"`[30m       |[32m|   [0m[32m__|[1m[32m|_[0m[32m_|[1m[32m|_[0m[32m____|[1m[32m|_[0m[32m_|[1m[32m|_[0m[32m___|[1m[30m%%[1m[37m]
+ [%[0m%%%[1m[30m%%%%%%%%%%%%%%%%%%%%%%%%%%%%| [31m`"a,[30m       |[0m[32m|__|[1m[30m%%%%%%%%%%%%%%%%%%%%%%%%%%[37m]
+ [%[0m%%[1m[30m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%|____[31m`"a,$$[30m__|%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%[37m]
+ [[0m%%[1m[30m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        [31m`"$[30m   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%[37m]
+ [[0m%[1m[30m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%[37m]
+[0m
+
+       =[ [33mmetasploit v6.5.0-dev[0m                                 ]
++ -- --=[ 2,672 exploits - 1,343 auxiliary - 2,598 payloads     ]
++ -- --=[ 435 post - 57 encoders - 14 nops - 12 evasion         ]
+
+Metasploit Documentation: https://docs.metasploit.com/
+The Metasploit Framework is a Rapid7 Open Source Project
+
+[0m[1m[31m[-][0m Failed to load plugin from android/meterpreter/reverse_tcp: cannot load such file -- android/meterpreter/reverse_tcp
+[?1034h[4mmsf[0m [0m> ls
+[0m[1m[34m[*][0m exec: ls
+
+AndroHacking
+attack
+Bash_scripting
+be_anonymous_proxychains.md
+Bluetooth_jammer.md
+books
+BugBounty
+burpsuit
+images
+Install
+linux_setup
+metasploit
+nmap
+osint
+pubg.apk
+Python_server_start.md
+readme.md
+Resources
+Software-apk
+termux_commands.md
+Termux_control_in_Windows_cmd.md
+Tools
+WinHacking
+zip.md
+zsh_currept.md
+[4mmsf[0m [0m> 
+[0m[4mmsf[0m [0m> 
+[0m[4mmsf[0m [0m> 
+[0m[4mmsf[0m [0m> [K[4mmsf[0m [0m> ls
+[0m[1m[34m[*][0m exec: ls
+
+AndroHacking
+attack
+Bash_scripting
+be_anonymous_proxychains.md
+Bluetooth_jammer.md
+books
+BugBounty
+burpsuit
+images
+Install
+linux_setup
+metasploit
+nmap
+osint
+pubg.apk
+Python_server_start.md
+readme.md
+Resources
+Software-apk
+termux_commands.md
+Termux_control_in_Windows_cmd.md
+Tools
+WinHacking
+zip.md
+zsh_currept.md
+[4mmsf[0m [0m> Interrupt: use the 'exit' command to quit
+[4mmsf[0m [0m> 
